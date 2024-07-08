@@ -142,7 +142,7 @@ export function Dashboard() {
   )
 }
 
-function LayoutGridIcon(props) {
+function LayoutGridIcon(props: any) {
   return (
     <svg
       {...props}
@@ -165,7 +165,7 @@ function LayoutGridIcon(props) {
 }
 
 
-function PlusIcon(props) {
+function PlusIcon(props: any) {
   return (
     <svg
       {...props}
@@ -186,7 +186,7 @@ function PlusIcon(props) {
 }
 
 
-function UserPlusIcon(props) {
+function UserPlusIcon(props: any) {
   return (
     <svg
       {...props}
